@@ -65,8 +65,7 @@ I read this interesting quote the other day:
 * Castafiore
   * An opera singer
   * Has white hair
-  * Is possibly mentally unwell
-
+  * Is possibly mentally unwell  
 
 1. Cut the cheese
 
@@ -77,7 +76,7 @@ I read this interesting quote the other day:
 
  For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.  
 # Lesson 7
- We pictured the meek mild creatures where  
+We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
 Nor did it occur to one of us there  
 To doubt they were kneeling then.  
