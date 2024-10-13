@@ -65,7 +65,7 @@ I read this interesting quote the other day:
   * Has white hair
   * Is possibly mentally unwell  
 
- 1. Cut the cheese
+1. Cut the cheese
 
  Make sure that the cheese is cut into little triangles.
 2. Slice the tomatoes
