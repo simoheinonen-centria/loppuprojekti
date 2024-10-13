@@ -70,6 +70,7 @@ I read this interesting quote the other day:
 1. Cut the cheese
 
  Make sure that the cheese is cut into little triangles.
+ 
 2. Slice the tomatoes
 
  Be careful when holding the knife.
